@@ -1,6 +1,6 @@
 ---
 title: "Cole Statler"
-excerpt: "Working toward a MS in Civil Engineering in the Water Resources Engineering specialty"
+excerpt: "Working towards a M.S. in Coastal Engineering"
 header:
   teaser: /assets/images/mike.jpg
 ---
